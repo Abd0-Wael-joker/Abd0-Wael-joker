@@ -35,8 +35,8 @@
 
 ### 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdoJoker99&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoJoker99&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abd0-Wael-joker&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abd0-Wael-joker&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
